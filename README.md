@@ -10,20 +10,35 @@
 ### Course Topics
 
 a. The Internationalization Process
+
 b. The Global Business Environment
+
 c. The World of International Trade
+
 d. Managing Export Operations
+
 e. Global Sourcing Strategy: R&D, Manufacturing, and Marketing Interfaces
+
 f. Licensing
+
 g. The Design and Management of International Joint Ventures
+
 h. International Strategy Formulation
+
 i. The Impact of Globalization on the Organization of Activities
+
 j. The Evolving Multinational
+
 k. The Global Manager
+
 l. Strengthening International
+
 m. Government Relations
+
 n. Global Leadership
+
 o. Ethical Challenges of International Management
+
 p. Managing the New Global Workforce
 
 
@@ -49,8 +64,8 @@ p. Managing the New Global Workforce
   - Article Review Selection - Unit Two [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Joseph%20Randolph%20-%20Article%20Two%20Review.docx?raw=true)
   - Article Review Selection - Unit Three [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Joseph%20Randolph%20Jr%20-%20Article%203%20Review.docx?raw=true)
   - Article Review Selection - Unit Four [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Joseph%20Randolph%20Jr%20-%20Article%20Four%20Review.docx?raw=true)
-  - Research Paper Outline [View]()
-  - Research Paper [View]()
+  - Research Paper Outline [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Joseph%20Randolph%20Jr%20-%20Graduate%20Term%20Paper%20Outline.docx?raw=true)
+  - Research Paper [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Xander%20Technology.docx?raw=true)
   - Research Paper Powerpoint [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Term%20Paper%20Presentation.pptx?raw=true)
     
 ## Career Goals
