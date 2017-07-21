@@ -9,37 +9,22 @@
 
 ### Course Topics
 
-a. The Internationalization Process
-
-b. The Global Business Environment
-
-c. The World of International Trade
-
-d. Managing Export Operations
-
-e. Global Sourcing Strategy: R&D, Manufacturing, and Marketing Interfaces
-
-f. Licensing
-
-g. The Design and Management of International Joint Ventures
-
-h. International Strategy Formulation
-
-i. The Impact of Globalization on the Organization of Activities
-
-j. The Evolving Multinational
-
-k. The Global Manager
-
-l. Strengthening International
-
-m. Government Relations
-
-n. Global Leadership
-
-o. Ethical Challenges of International Management
-
-p. Managing the New Global Workforce
+* The Internationalization Process
+* The Global Business Environment
+* The World of International Trade
+* Managing Export Operations
+* Global Sourcing Strategy: R&D, Manufacturing, and Marketing Interfaces
+* Licensing
+* The Design and Management of International Joint Ventures
+* International Strategy Formulation
+* The Impact of Globalization on the Organization of Activities
+* The Evolving Multinational
+* The Global Manager
+* Strengthening International
+* Government Relations
+* Global Leadership
+* Ethical Challenges of International Management
+* Managing the New Global Workforce
 
 
 ### Course Objectives:
@@ -70,10 +55,10 @@ p. Managing the New Global Workforce
     
 ## Career Goals
 
-IndM 5020 International Technology Mangement has prepared for me for reaching my long-termr goal to become a director
+IndM 5020 International Technology Mangement has prepared me for reaching my long-termr goal to become a Director
 of an Information Technology company. I am now able to understand what goes into starting and expanding an global corporation. In 
 class we were able to identify problems with international technology management and find solutions that could promote more 
-efficient business processes. We could use these in real world scenarios and this is why IndM 5020 has help my knowledge grow. 
+efficient business processes. We could use these in real world scenarios and this is why IndM 5020 has helped my knowledge grow. 
 
 
 ### Contact Information
