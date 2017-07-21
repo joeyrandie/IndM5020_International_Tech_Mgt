@@ -4,8 +4,8 @@
 
 ## Course Information
 
-* Schedule [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/raw/master/5020c30382ScheduleSu17.pdf)
-* Syllabus [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/raw/master/INDM5020%20SyllabusSu17.pdf)
+* Schedule: [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/raw/master/5020c30382ScheduleSu17.pdf)
+* Syllabus: [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/raw/master/INDM5020%20SyllabusSu17.pdf)
 
 ### Course Topics
 
@@ -40,18 +40,18 @@
 
 ## Course Assignments
 
-  - Assignment One - Professional Profile [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Joseph%20Randolph%20Jr%20-%20Professional%20Profile.docx?raw=true)
-  - Assignment Two - Technology Management [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Joseph%20Randolph%20Jr%20-%20Assignment%202%20-%20Technology%20Management.docx?raw=true)
+  - Assignment One - Professional Profile: [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Joseph%20Randolph%20Jr%20-%20Professional%20Profile.docx?raw=true)
+  - Assignment Two - Technology Management: [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Joseph%20Randolph%20Jr%20-%20Assignment%202%20-%20Technology%20Management.docx?raw=true)
   - Assignment Three - Case Study/Group Activity! [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Joseph%20Randolph%20-%20Assignment%203.docx?raw=true)
-  - Assignment Four - SWOT Analysiss [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Joseph%20Randolph%20-%20Assignment%204%20SWOT%20Analysis.docx?raw=true)
-  - Assignment Four - Group Work - Case Study – Hong Kong Disneyland [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Stockholm%20Group%20Paper.docx?raw=true)
-  - Article Review Selection - Unit One [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Joseph%20Randolph%20Jr%20-%20Article%20One%20Review.docx?raw=true)
-  - Article Review Selection - Unit Two [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Joseph%20Randolph%20-%20Article%20Two%20Review.docx?raw=true)
-  - Article Review Selection - Unit Three [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Joseph%20Randolph%20Jr%20-%20Article%203%20Review.docx?raw=true)
-  - Article Review Selection - Unit Four [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Joseph%20Randolph%20Jr%20-%20Article%20Four%20Review.docx?raw=true)
-  - Research Paper Outline [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Joseph%20Randolph%20Jr%20-%20Graduate%20Term%20Paper%20Outline.docx?raw=true)
-  - Research Paper [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Xander%20Technology.docx?raw=true)
-  - Research Paper Powerpoint [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Term%20Paper%20Presentation.pptx?raw=true)
+  - Assignment Four - SWOT Analysis: [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Joseph%20Randolph%20-%20Assignment%204%20SWOT%20Analysis.docx?raw=true)
+  - Assignment Four - Group Work - Case Study – Hong Kong Disneyland: [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Stockholm%20Group%20Paper.docx?raw=true)
+  - Article Review Selection - Unit One: [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Joseph%20Randolph%20Jr%20-%20Article%20One%20Review.docx?raw=true)
+  - Article Review Selection - Unit Two: [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Joseph%20Randolph%20-%20Article%20Two%20Review.docx?raw=true)
+  - Article Review Selection - Unit Three: [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Joseph%20Randolph%20Jr%20-%20Article%203%20Review.docx?raw=true)
+  - Article Review Selection - Unit Four: [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Joseph%20Randolph%20Jr%20-%20Article%20Four%20Review.docx?raw=true)
+  - Research Paper Outline: [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Joseph%20Randolph%20Jr%20-%20Graduate%20Term%20Paper%20Outline.docx?raw=true)
+  - Research Paper: [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Xander%20Technology.docx?raw=true)
+  - Research Paper Powerpoint: [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Term%20Paper%20Presentation.pptx?raw=true)
     
 ## Career Goals
 
