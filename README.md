@@ -4,41 +4,54 @@
 
 ## Course Information
 
-* Syllabus [View](https://github.com/joeyrandie/indm5020-International-Tech-Mgt/blob/master/Syllabus.pdf)
-* Schedule [View](https://github.com/joeyrandie/indm5020-International-Tech-Mgt/blob/master/Schedule.pdf)
+* Schedule [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/raw/master/5020c30382ScheduleSu17.pdf)
+* Syllabus [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/raw/master/INDM5020%20SyllabusSu17.pdf)
 
-### Course Overview
+### Course Topics
 
-* Credit Hours: 3
-* Prerequisite: None
-* Credit available for: Graduate
-* Required course for the following program:
-* Graduate:
-    - M.S. Industrial Management
-    - M.S. Industrial Technology
+a. The Internationalization Process
+b. The Global Business Environment
+c. The World of International Trade
+d. Managing Export Operations
+e. Global Sourcing Strategy: R&D, Manufacturing, and Marketing Interfaces
+f. Licensing
+g. The Design and Management of International Joint Ventures
+h. International Strategy Formulation
+i. The Impact of Globalization on the Organization of Activities
+j. The Evolving Multinational
+k. The Global Manager
+l. Strengthening International
+m. Government Relations
+n. Global Leadership
+o. Ethical Challenges of International Management
+p. Managing the New Global Workforce
+
 
 ### Course Objectives:
 
-a. Define technology management and assessment
-b. List the benefits of new technology that contribute to the overseas market.
-c. Define International Technology Management
-d. Analyze and display an understanding of the present situation for international business/industry and what the future might hold.
-e. Analyze and apply theoretical and methodological knowledge on industrial management in an international perspective
-f. Synthesize and state the importance of international-based industry and U.S based corporations in the international marketplace.
-g. Identify and state the problems of a manager in an international environment and be able to demonstrate how to overcome such problems.
-h. Demonstrate the student’s analytical, intellectual, and evaluation skills that can be used individually as well as a team.
+ * list the benefits of new technology that contribute to the overseas market.
+ * define International Technology Management
+ * analyze and display an understanding of the present situation for international business/industry and what the future might hold.
+ * analyze and apply theoretical and methodological knowledge on industrial management in an international perspective
+ * synthesize and state the importance of international-based industry and U.S based corporations in the international marketplace.
+ * identify and state the problems of a manager in an international environment and be able to demonstrate how to overcome such problems.
+ * demonstrate the student¿s analytical, intellectual, and evaluation skills that can be used individually as well as a team.
+
 
 ## Course Assignments
 
-  - Assignment One - Professional Profile [View]()
-  - Assignment Two - Technology Management [View]()
-  - Assignment Three - Case Study/Group Activity! [View]()
-  - Assignment Four - SWOT Analysiss [View]()
-  - Assignment Four - Group Work - Case Study – Hong Kong Disneyland [View]()
-  - Article Review Selection - Unit One [View]()
-  - Article Review Selection - Unit Two [View]()
-  - Article Review Selection - Unit Three [View]()
-  - Article Review Selection - Unit Four [View]()
+  - Assignment One - Professional Profile [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Joseph%20Randolph%20Jr%20-%20Professional%20Profile.docx?raw=true)
+  - Assignment Two - Technology Management [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Joseph%20Randolph%20Jr%20-%20Assignment%202%20-%20Technology%20Management.docx?raw=true)
+  - Assignment Three - Case Study/Group Activity! [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Joseph%20Randolph%20-%20Assignment%203.docx?raw=true)
+  - Assignment Four - SWOT Analysiss [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Joseph%20Randolph%20-%20Assignment%204%20SWOT%20Analysis.docx?raw=true)
+  - Assignment Four - Group Work - Case Study – Hong Kong Disneyland [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Stockholm%20Group%20Paper.docx?raw=true)
+  - Article Review Selection - Unit One [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Joseph%20Randolph%20Jr%20-%20Article%20One%20Review.docx?raw=true)
+  - Article Review Selection - Unit Two [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Joseph%20Randolph%20-%20Article%20Two%20Review.docx?raw=true)
+  - Article Review Selection - Unit Three [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Joseph%20Randolph%20Jr%20-%20Article%203%20Review.docx?raw=true)
+  - Article Review Selection - Unit Four [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Joseph%20Randolph%20Jr%20-%20Article%20Four%20Review.docx?raw=true)
+  - Research Paper Outline [View]()
+  - Research Paper [View]()
+  - Research Paper Powerpoint [View](https://github.com/joeyrandie/IndM5020_International_Tech_Mgt/blob/master/Term%20Paper%20Presentation.pptx?raw=true)
     
 ## Career Goals
 
